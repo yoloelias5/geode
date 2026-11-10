@@ -42,6 +42,10 @@ Detailed documentation, tutorials, and installation instructions on using Geode 
 
 New to modding GD? Geode's documentation also comes with a handy [tutorial book](https://docs.geode-sdk.org/#/handbook/chap0) that explains all the basics of GD modding!
 
+## Android builds
+
+This fork builds Android 32-bit and 64-bit binaries through GitHub Actions. Open the [Build Binaries workflow](https://github.com/yoloelias5/geode/actions/workflows/build-docker.yml) and select **Run workflow** to start a build manually.
+
 ## Contribution
 
 You can contribute to Geode by opening a [Pull Request](https://github.com/geode-sdk/geode/pulls)! Please follow the contribution guidelines.
