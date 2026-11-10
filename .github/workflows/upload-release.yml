@@ -12,6 +12,7 @@ on:
 jobs:
   publish:
     name: Upload Release Info
+    if: github.repository == 'geode-sdk/geode'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
